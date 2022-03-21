@@ -1,2 +1,0 @@
-# baqer
-Telegram-infobot
